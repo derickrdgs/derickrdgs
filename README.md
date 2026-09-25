@@ -45,6 +45,12 @@ Meu objetivo é transformar conhecimentos acadêmicos em aplicações reais e ev
 ![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=A970FF)
 ![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=A970FF)
 
+### 🖥️ IDEs & Ambiente
+
+![VS Code](https://img.shields.io/badge/VS%20Code-161616?style=for-the-badge&logo=visual-studio-code&logoColor=A970FF)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-161616?style=for-the-badge&logo=intellij-idea&logoColor=A970FF)
+
+
 ---
 
 ## 🟣 Projetos em destaque
