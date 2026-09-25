@@ -1,95 +1,124 @@
-# Olá! Eu sou Derick Rodrigues 👋
+<div align="center">
 
-🎓 **Estudante de Engenharia de Software**  
-💻 **Desenvolvimento de Software | Java | Python | SQL**  
-📚 Em constante aprendizado e construção de projetos práticos.
+# 🖤 DERICK RODRIGUES
+
+### <span style="color:#A970FF;">⚡ Software Engineering Student</span>
+
+**Java • Python • SQL • Backend • Data • Machine Learning**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:6D28D9,100:A970FF&height=120&section=header" width="100%"/>
+
+</div>
+
+## 🟣 Sobre mim
+
+Sou estudante de **Engenharia de Software** e estou construindo minha experiência através de projetos práticos de desenvolvimento.
+
+Atualmente, meus estudos estão concentrados em **Java, Python, SQL, desenvolvimento backend, APIs e análise de dados**.
+
+Meu objetivo é transformar conhecimentos acadêmicos em aplicações reais e evoluir continuamente como desenvolvedor.
 
 ---
 
-## 🚀 Sobre mim
-
-Sou estudante de Engenharia de Software e estou construindo minha experiência através de projetos práticos de desenvolvimento.
-
-Atualmente, meus estudos estão concentrados principalmente em **Java, Python, SQL, desenvolvimento backend, APIs e análise de dados**, buscando transformar os conhecimentos acadêmicos em aplicações funcionais.
-
-Meu objetivo é evoluir continuamente como desenvolvedor e construir um portfólio com projetos cada vez mais completos.
-
----
-
-## 🛠️ Tecnologias e conhecimentos
+## ⚙️ Tech Stack
 
 ### 💻 Desenvolvimento
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗄️ Banco de dados
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-161616?style=for-the-badge&logo=openjdk&logoColor=A970FF)
+![Python](https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=A970FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=A970FF)
 
-### 📊 Dados e Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+### 🗄️ Banco de Dados
+
+![SQL](https://img.shields.io/badge/SQL-161616?style=for-the-badge&logo=postgresql&logoColor=A970FF)
+![SQLite](https://img.shields.io/badge/SQLite-161616?style=for-the-badge&logo=sqlite&logoColor=A970FF)
+
+### 📊 Dados & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-161616?style=for-the-badge&logo=pandas&logoColor=A970FF)
+![NumPy](https://img.shields.io/badge/NumPy-161616?style=for-the-badge&logo=numpy&logoColor=A970FF)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-161616?style=for-the-badge&logo=scikit-learn&logoColor=A970FF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-161616?style=for-the-badge&logo=matplotlib&logoColor=A970FF)
 
 ### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=A970FF)
+![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=A970FF)
 
 ---
 
-## 📂 Projetos em destaque
+## 🟣 Projetos em destaque
 
 ### 🛠️ [Help Desk System](https://github.com/derickrdgs/Helpdesk-system-java)
+
 Sistema de gerenciamento de chamados desenvolvido em **Java**, simulando um ambiente de suporte técnico.
 
-**Principais conceitos:** lógica de programação, estruturas de dados e gerenciamento de chamados.
+**Stack:** Java • Estruturas de Dados • Lógica de Programação
 
 ### 📦 [Sistema de Controle de Estoque](https://github.com/derickrdgs/Esttooque-java)
-Aplicação desenvolvida em **Java** para cadastro, consulta, atualização e remoção de produtos.
 
-**Principais conceitos:** POO, ArrayList, estruturas condicionais e organização de dados.
+Aplicação em **Java** para cadastro, consulta, atualização e remoção de produtos.
+
+**Stack:** Java • POO • ArrayList
 
 ### 🗄️ [Sistema de Estoque + SQLite](https://github.com/derickrdgs/sistema-estoque-sqlite)
+
 Sistema de estoque desenvolvido em **Java**, utilizando **SQLite e JDBC** para persistência dos dados.
 
-**Principais conceitos:** banco de dados, JDBC, persistência e acesso a dados.
+**Stack:** Java • SQLite • JDBC
 
 ---
 
 ## 📚 Atualmente estudando
 
-- 🐍 Python e boas práticas
-- 📊 Análise e visualização de dados
-- 🤖 Machine Learning
-- 🔌 APIs e integração entre sistemas
-- ☕ Java e desenvolvimento backend
-- 🗄️ SQL e bancos de dados
-- ⚙️ Automação e processamento de dados
+```
+╭──────────────────────────────────────────╮
+│  PYTHON                                  │
+│  ├─ Boas práticas                        │
+│  ├─ Pandas / NumPy                       │
+│  └─ APIs / Automação                     │
+│                                          │
+│  MACHINE LEARNING                        │
+│  ├─ Preparação de dados                  │
+│  ├─ Feature Engineering                  │
+│  └─ Avaliação de modelos                 │
+│                                          │
+│  JAVA / BACKEND                          │
+│  ├─ POO                                  │
+│  ├─ Estruturas de dados                  │
+│  └─ Desenvolvimento backend              │
+╰──────────────────────────────────────────╯
+```
 
 ---
 
-## 🎯 Objetivo
+## 📈 GitHub
 
-Construir uma base sólida em desenvolvimento de software e evoluir para projetos que unam **backend, dados e inteligência artificial**.
+<div align="center">
 
-Estou buscando transformar cada projeto em uma oportunidade de aprendizado e evolução profissional.
+<img src="https://github-readme-stats.vercel.app/api?username=derickrdgs&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derickrdgs&layout=compact&theme=midnight-purple&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-Se quiser conversar sobre projetos, tecnologia ou oportunidades:
+<div align="center">
 
-**📧 Email:** [derickrdgs@gmail.com](mailto:derickrdgs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=A970FF)](mailto:derickrdgs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=A970FF)](https://github.com/derickrdgs)
 
-**🐙 GitHub:** [github.com/derickrdgs](https://github.com/derickrdgs)
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Sempre aprendendo, construindo e evoluindo.
+### <span style="color:#A970FF;">「 Sempre aprendendo. Sempre construindo. 」</span>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:6D28D9,100:A970FF&height=100&section=footer" width="100%"/>
 
 </div>
