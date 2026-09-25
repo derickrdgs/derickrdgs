@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖤 DERICK RODRIGUES
+# 🖤 Derick de Jesus rodrigues
 
 ### <span style="color:#A970FF;">⚡ Software Engineering Student</span>
 
