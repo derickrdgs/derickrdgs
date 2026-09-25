@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖤 Derick de Jesus rodrigues
+# 🖤 Derick de Jesus Rodrigues
 
 ### <span style="color:#A970FF;">⚡ Software Engineering Student</span>
 
@@ -108,8 +108,21 @@ Sistema de estoque desenvolvido em **Java**, utilizando **SQLite e JDBC** para p
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=A970FF)](mailto:derickrdgs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=A970FF)](https://github.com/derickrdgs)
+### 📧 Email
+
+**[derickrdgs@gmail.com](mailto:derickrdgs@gmail.com)**
+
+<br>
+
+<a href="mailto:derickrdgs@gmail.com">
+  <img src="https://img.shields.io/badge/Enviar%20email-161616?style=for-the-badge&logo=gmail&logoColor=A970FF" alt="Enviar email"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/derickrdgs">
+  <img src="https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=A970FF" alt="GitHub"/>
+</a>
 
 </div>
 
